@@ -43,7 +43,7 @@
                     }
                     path = path.concat('data/' + this.clazz + '/pages.json');
                 } else
-                    var path = '/CarteOdyssee/data/' + this.clazz + '/pages.json';
+                    var path = 'data/' + this.clazz + '/pages.json';
                 $http.get(path)
                         .success(
                                 function (data) {
