@@ -1,0 +1,122 @@
+[{
+        "title": "L'Odyssée"
+    },
+    {
+        "title": "Les Kikones et les Lotophages",
+        "author": "Dylan et Gaël",
+        "sound": "kikones_lotophages.mp3",
+        "image": "kikones_lotophages.jpg",
+        "caption":"Scène de guerre, poterie à figures rouges, à Rome, villa Giulia",
+        "summary":"<p>Dans l'aventure, Ulysse et ses compagnons débarquent sur l'île des Kikones. Ils dévastent la ville d'Ismaros suite à leur victoire écrasante, ils festoient sans se douter que les Kikones allaient les attaquer par surprise. Durant la bataille, certains compagnons d'Ulysse meurent. Ils sont obligés de  s'enfuir sur l'île voisine. À leur arrivée, Ulysse demande à deux de ses compagnons d'explorer l'île afin de savoir s'il y a une civilisation. Ne voyant pas ses hommes revenir, ils partent à leur recherche. Ils les retrouvent dans un village, amnésiques suite à l’absorption du lotos. Ulysse ramène ses compagnons au navire afin de reprendre la route.</p>",
+        "coords": [{"x":855,"y":115},{"x": 515, "y": 344}]
+    },
+    {
+        "title": "Le Cyclope",
+        "author": "Lucas et Thomas",
+        "sound": "cyclope.mp3",
+        "coords": [{"x":611,"y":136}]
+    },
+    {
+        "title": "Éole",
+        "author": "Gabin et Jules",
+        "sound": "eole.mp3",
+        "image": "eole.jpg",
+        "caption": "Céramique représentant Éole, le dieu des vents.",
+        "summary": "<p>Ulysse arrive à l’île d’Éolie, il part voir Éole et lui dit qu'il veut rentrer chez lui après son séjour à Troie. Ce dieu l'interroge sur Troie.</p><p>Pour préparer son retour, Éole prend une peau de bœuf et fait une outre dans celle-ci, il met à l’intérieur tous les vents mugissants.</p><p>Éole fit souffler le Zéphyr et leur interdit d'ouvrir l'outre des vents.</p><p>Les compagnons ouvrent l’outre, croyant y voir de l’or du généreux Éole. Ils l’ouvrent et tous les vents en jaillissent. Les vents ramènent Ulysse et ses compagnons à Éolie.</p>",
+        "coords": [{"x":610, "y":191}]
+    },
+    {
+        "title": "Les Lestrygons",
+        "author": "Gabin et Jules",
+        "image": "lestrygons.jpg",
+        "caption": "L’attaque des Lestrygons, fresque de la maison de la via Graziosa, sur l'Esquilin à Rome",
+        "summary":"<p>Ulysse et ses compagnons arrivent chez les Lestrygons. Prudent, Ulysse envoie tout d’abord deux hommes en reconnaissance et un héraut.</p><p>Ceux-ci rencontrent d’abord une jeune fille qui les conduit au palais où ils trouvent une femme « aussi haute qu’une montagne ». Elle appelle son mari Antiphatès.  Ulysse dit qu’Antiphatès « leur préparait un sombre destin ». En effet, celui-ci dévore immédiatement un des compagnons. Les deux autres s’enfuient prévenir les autres, mais il  est déjà trop tard. Des milliers de Lestrygons arrivent et lancent d’énormes rochers, écrasent les hommes, les harponnent « comme des poissons ».</p><p>Un seul navire parvient à s’échapper, tous les autres compagnons meurent. La malédiction des dieux est atroce.</p>",
+        "coords": [{"x":485, "y":121}]
+    },
+    {
+        "title": "Circé",
+        "author": "Sara et Orlane",
+        "sound": "circe.mp3",
+        "summary":"<p>Circé est une terrible déesse aux cheveux bouclés, qui parle le langage des hommes. Cette dernière vivait dans l’ île d’ Aiaié.</p><p>Circé vivait dans un palais , entourée de bêtes sauvages, qu’elle avait ensorcelées.</p><p>Circé empoisonne les prétendants d’Ulysse avec ses maudites drogues, elle les transforme en porcs. Ulysse rencontre Hermès qui lui donne une herbe magique. Quand il rencontre Circé, ses pouvoirs n'ont pas d'effets sur lui. </p><p>Tombé sous le charme d'Ulysse, Circé libère les compagnons d'Ulysse.</p>",
+        "coords": [{"x":564,"y":106}]
+    },
+    {
+        "title": "Le pays des Morts",
+        "author": "Éva et Léna",
+        "sound": "pays_des_morts.mp3",
+        "image": "pays_des_morts.jpg",
+        "caption": "Jan Styka. Ulysse veut embrasser l'âme de sa mère. Gravure illustrant l'Odyssée.",
+        "summary": "<p>Après avoir fait escale chez Circé , Ulysse et ses compagnons partent interroger l'âme  du thébain Tirésias au pays des morts.</p><p>Ulysse veut savoir la vérité :comment rentrer cher lui ? Quels dangers devra-t-il encore surmonter ?</p><p>Il met en place le rituel et s'adresse aux morts dont Tirésias, qui lui précise qu'il ne doit pas manger les bœufs du Soleil.</p>",
+        "coords": [{"x":567,"y":126}]
+    },
+    {
+        "title": "Les Sirènes",
+        "author": "Ambre et Marie",
+        "sound": "sirenes.mp3",
+        "image": "sirenes.jpg",
+        "caption":"<p>Illustration des Sirènes attaquant le bateau d’Ulysse et ses compagnons, réalisée en 1891.</p><p>Auteur:WATERHOUSE.</p>",
+        "summary":"<p>Ulysse et ses compagnons devaient traverser L‘HORRIBLE épreuve de Charybde et Scylla.</p><p>Mais avant cela, ils devaient passer par l’île des Sirènes.</p><p>Circé leur conseilla de mettre de la cire dans leurs oreilles et d’attacher Ulysse au mât du bateau pour qu’il puisse entendre L’EXTRAORDINAIRE chant des Sirènes.</p><p>Alors Ulysse fit ce que Circé leur conseilla , et tout se passa sans soucis</p>",
+        "coords": [{"x":589,"y":132}]
+    },
+    {
+        "title": "Charybde et Scylla",
+        "author": "Tomas et Matthias",
+        "image": "charibde_scylla.jpg",
+        "sound": "charybde_scylla.mp3",
+        "caption": "Scylla dévorant les compagnons d'Ulysse, Johann Bodin, Larousse jeunesse 2010",
+        "summary":"<p>Charybde et Scylla sont des monstres de la mythologie grecque, Ulysse doit traverser cette étape pour rentrer à Ithaque. Charybde est un monstre qui avale l’eau de la mer et qui la recrache .</p><p>Et Scylla est un monstre à six têtes, chacune d’elles dévore un marin passant devant son antre.</p><p>Ulysse sait qu’il faut passer obligatoirement par un de ces monstres. Il fait un choix judicieux : il passe par Scylla, même s’il perdra six de ses compagnons...</p>",
+        "coords": [{"x":632,"y":208}]
+    },
+    {
+        "title": "L'Île du Soleil",
+        "author": "Coline et Ambre",
+        "sound": "ile_du_soleil.mp3",
+        "image": "ile_soleil.jpg",
+        "caption":"<p><u>Peintre:</u> Pellegrino Tibaldi</p><p><u>Année:</u> 1549-1553</p>",
+        "summary":"<p>Quand Ulysse et ses compagnons eurent fui les écueils de Charybde et Scylla, ils arrivèrent en vue de l'île du soleil, l'île du dieu Hélios.</p><p>Ils y découvrirent de grasses brebis et des bœufs. Ulysse interdit à ses compagnons de les manger, c'était le conseil de Circé et de Tirésias.</p><p>Mais bientôt, une tempête empêche les compagnons de repartir et la faim se fait sentir… Pendant une sieste d'Ulysse, ils mangèrent les meilleurs bœufs du Soleil…</p><p>Une tempête désastreuse vengera bientôt Hélios.</p>",
+        "coords": [{"x":616,"y":242}]
+    },
+    {
+        "title": "Calypso",
+        "author": "Nina et Élisa",
+        "sound": "calypso.mp3",
+        "summary": "<p>Ulysse resta enfermé pendant sept ans chez la divine Calypso. La Déesse était folle de lui.</p><p>Un jour, les dieux décidèrent de le libérer de l'île de Calypso.</p><p>La femme était énervée mais elle aida Ulysse à construire son radeau.</p><p>C'est ainsi qu'Ulysse partit sur le vaste dos de la mer. Mais cependant, les dieux avaient une condition : qu'Ulysse parte seul sur un radeau.</p>",
+        "coords": [{"x":125,"y":273}]
+    },
+    {
+        "title": "La tempête de Poséidon",
+        "author": "Jules et Raphaël",
+        "sound": "tempete_poseidon.mp3",
+        "image": "poseidon.jpg",
+        "caption": "Poséidon, avec son trident, plaque, 550-525av-jc musée du Louvre",
+        "summary": "<p>Poséidon envoya tous les vents sur Ulysse car il avait rendu son fils Polyphème aveugle. </p><p>Puis une haute  lame le renversa et le radeau perdit sa voile, son mât et son gouvernail. </p><p>Enfin, la fille de Cadmos, Ino aux beaux talons, vit Ulysse. De pitié, elle lui donna un voile blanc pour l'alléger et elle lui dit d'aller sur la terre des Phéaciens.</p>",
+        "coords": [{"x":428,"y":219}]
+    },
+    {
+        "title": "Nausicaa",
+        "author": "Ruben et Mathéo",
+        "sound": "nausicaa.mp3",
+        "image": "nausicaa.jpg",
+        "summary": "<p>Nausicaa demanda à son père un attelage pour laver ses vêtements dans le fleuve voisin. Athéna avait fait naître chez elle le désir de se marier.</p><p>Sur le bord du fleuve, une fois le travail terminé, les jeunes filles se baignèrent et frottèrent leur corps d’huile d’olive et jouèrent à la balle... mais Athéna détourna la balle vers le fleuve profond et les cris des jeunes filles réveillèrent Ulysse, qui  dormait non loin du naufrage de son navire.</p><p>Accompagné de Nausicaa et des jeunes filles, Ulysse se rendit auprès du roi Alcinoos, enveloppé d'un brouillard d'invisibilité, petite faveur d'Athéna...</p>",
+        "caption": "<p>C’est une céramique grecque.</p><p>Cette céramique représente Nausicaa et Ulysse.</p>",
+        "coords": [{"x":732,"y":163}]
+    },
+    {
+        "title": "La ruse de Pénélope",
+        "author": "Angeline et Célia",
+        "image": "la_ruse_de_penelope.jpg",
+        "sound": "ruse_de_penelope.mp3",
+        "caption": "Créé en 1509 à Rome par Pinturicchio, né en 1454 à Bernardino en Italie, cette peinture est actuellement exposée à « The National Gallery » à Londres.",
+        "summary": "<p>Depuis le départ d’Ulysse, les prétendants courtisent Pénélope, sa femme.</p><p>Pénélope, ne sachant plus quoi faire, inventa une ruse.</p><p>Cette ruse consiste à tisser une toile le jour et à la découdre la nuit.</p><p>Elle dit à ses prétendants que quand cette toile sera finie, elle pourra se marier avec l’un des leurs.</p>",
+        "coords": [{"x":758,"y":194}]
+    },
+    {
+        "title": "L'épreuve de l'arc",
+        "author": "Carla Marie et Simon",
+        "sound": "epreuve_de_l_arc.mp3",
+        "image": "arc.jpg",
+        "caption": "Le Primatice, <i>Ulysse à Ithaque, le jeu de l'arc</i>, XVI ème siècle, huile sur toile, château de Fontainebleau.",
+        "summary": "<p><b>Ulysse</b>, en mendiant, est rentré à Ithaque et cache son identité. <b>Pénélope</b> prépare une épreuve de tir à l'arc pour choisir son nouveau mari.</p><p>Le lendemain, les prétendants se préparent et l'épreuve commence.</p> <p>Chacun essaie mais aucun n'y parvient.</p><p>Enfin, Ulysse, le mendiant, demande l'arc et réussit l'épreuve : tendre l'arc et traverser les douze haches.</p><p>Puis, Ulysse révèle son identité, et, avec son fils Télémaque, ils commencent le massacre des prétendants !!</p>",
+        "coords": [{"x":766,"y":200}]
+    }
+]

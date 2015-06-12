@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<!--
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+-->
+<html ng-app="test">
+    <head>
+        <title>Carte Odyssée</title>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <link rel="stylesheet" type="text/css" href="bootstrap-3.3.4-dist/css/bootstrap.min.css"/>
+    </head>
+    <body ng-controller="TestController as test">
+        <header class="main">
+            <h1>{{2+52}}</h1>
+            <h1>{{'loc : '+test.location.absUrl()}}</h1>
+            <h1>{{test.res}}</h1>
+        </header>
+
+        <script src="js/libs/angular.js" ></script>
+        <script src="js/libs/jquery-2.1.3.min.js"></script>
+        <script src="app/test.js"></script>
+
+    </body>
+</html>

@@ -1,0 +1,127 @@
+[{
+        "title": "L'Odyssée"
+    },
+    {
+        "title": "Les Kikones et les Lotophages",
+        "author": "Lazah et Tabatha",
+        "sound": "kikones_lotophages.mp3",
+        "image": "kikones_lotophages.jpg",
+        "caption":"<b>Théodore Van Thulden</b>. Les Travaux d'Ulysse. Ulysse pillant la ville des Ciconiens. Gravure. 1633.",
+        "summary":"<p>Ulysse raconte ce qui lui est arrivé avant qu'il  n'arrive chez les Phéaciens.</p><p>Il fut battu par les Kikones qu'il avait attaqués; il fut aussi accueilli par les Lotophages qui eux, lui avaient donné du Lotos, une sorte de drogue. Cette drogue les avait endormis, pour qu'ils puissent les manger car les Lotophages sont cannibales.</p>",
+        "coords": [{"x":855,"y":115},{"x": 515, "y": 344}]
+    },
+    {
+        "title": "Le Cyclope",
+        "author": "Esteban et Naïm",
+        "sound": "cyclope.mp3",
+        "image": "cyclope.jpg",
+        "caption": "Annibale Carracci, fresque, 1595, Palazzo Farnesse à Rome",
+        "summary": "<p>Ulysse pénétra dans la grotte, accompagné de ses compagnons. Ils se cachèrent derrière une pierre et virent le cyclope Polyphème en train de traire les moutons. Il ressortit les moutons dehors puis, en entrant dans sa grotte, il sentit la chaire fraîche. Il souleva la pierre où étaient cachés Ulysse et ses compagnons, puis il en saisit un et l'écrasa. Son cerveau gicla et il mangea le  compagnon. </p><p>Puis Polyphème bloqua l'entrée de la grotte et alla se coucher. Ulysse et ses compagnons  imaginèrent une ruse, Ulysse alla réveiller le cyclope puis conclut un marché : Ulysse partagerait son vin et  Polyphème ne les mangerait pas.  Le cyclope partit traire les vaches. Puis il alla s’asseoir et Ulysse lui donna le délicieux breuvage, il le but et s'endormit . Ulysse saisit le pieu et le planta dans l’œil du cyclope. Ulysse s’échappa.</p>",
+        "coords": [{"x":611,"y":136}]
+    },
+    {
+        "title": "Éole",
+        "author": "Jérémy et Mathéo",
+        "image": "eole.jpg",
+        "caption": "Éole, marbre ancien",
+        "coords": [{"x":610, "y":191}]
+    },
+    {
+        "title": "Les Lestrygons",
+        "author": "Jérémy et Mathéo",
+        "sound": "lestrygons.mp3",
+        "image": "lestrygons.jpg",
+        "caption": "Illustration de John Flaxman pour L'Odyssée, 1810",
+        "summary":"<p>Ulysse et ses compagnons arrivèrent au palais des Lestrygons, ils trouvèrent une femme « aussi haute qu'une montagne » : sa vue les saisit d'épouvante …</p><p>La géante appela Antiphatès son mari, qui leur préparait un noir destin!</p><p>Antiphatès attrapa un des compagnons et le dévora sur-le-champ ! Les compagnons se ruèrent vers les  bateaux.</p><p>Mais ces étranges créatures lancèrent des pierres sur toute la flotte d'Ulysse!</p><p>A la fin de cette guerre sans scrupule, il ne reste plus qu'Ulysse et six autres compagnons !</p>",
+        "coords": [{"x":485, "y":121}]
+    },
+    {
+        "title": "Circé",
+        "author": "Mélys et Ambre",
+        "sound": "circe.mp3",
+        "image": "circe.jpg",
+        "caption": "Cette œuvre d'art a été créée par <b>Jacob Jordaens</b>, 1630.",
+        "summary":"<p>Circé est la fille de Hélios et Perséis, elle habite une île de Colchide. Sa profession est magicienne, elle est surtout experte en drogues et en poisons. Des lions et des loups errent autour de son palais , en réalité ce sont des hommes ensorcelés. </p><p>     Elle offre un breuvage contenant une drogue aux hommes d 'Ulysse qui se métamorphosent en pourceaux. Ulysse y échappe car Hermès lui donne un remède contre ses charmes.</p>",
+        "coords": [{"x":564,"y":106}]
+    },
+    {
+        "title": "Le pays des Morts",
+        "author": "Titouan et Florian",
+        "sound": "pays_des_morts.mp3",
+        "image": "pays_des_morts.jpg",
+        "summary": "<p>Ulysse le généreux et ses compagnons partirent pour le royaume d'Hadès, en bateau, en suivant les conseils de Circé. Dans le royaume des morts, nulle lumière ne pénétrait, nul souvenir ne résidait. </p><p>Quand il fut arrivé, Ulysse creusa une fosse autour de laquelle il versa les libations (lait mêlé de miel, du vin puis de l’eau), et répand par-dessus la farine blanche. Après avoir prié les morts et promis des sacrifices, il fait couler le sang des bêtes sur la fosse et leur dit : « Vous ne buvez pas ce sang tant que le devin Tirésias ne me dit la vérité sur mon avenir ». </p><p>Tirésias arriva et but le sang des bêtes, puis dit la vérité sur l'avenir d'Ulysse.</p><p>Ensuite, Ulysse rencontra sa mère qui l'informa sur la vie à Ithaque pendant son absence, puis ce fut le tour de plusieurs de ses anciens compagnons (Alkinoos, Achille...).</p><p>Il sortit, quelques temps plus tard, rassuré sur son avenir et repartit en bateau  vers l'île des sirènes.</p>",
+        "coords": [{"x":567,"y":126}]
+    },
+    {
+        "title": "Les Sirènes",
+        "author": "Célia et Mélia",
+        "sound": "sirenes.mp3",
+        "image": "sirenes.jpg",
+        "caption":"sirène sur une stèle funéraire grecque vers 330 av.JC",
+        "summary":"<p>Circé avait prévenu Ulysse qu'il allait rencontrer les sirènes. Elle avait vu juste.</p><p>Circé lui avait conseillé de boucher les oreilles de ses compagnons avec de la cire molle et  de leur ordonner de l'attacher au mât du bateau pour goûter au plaisir du chant des sirènes.</p><p>Lorsqu'ils arrivèrent sur le territoire des sirènes, les compagnons n'entendirent rien. Ils ramèrent, ramèrent et réussirent à s'échapper de la ruse des sirènes.</p>",
+        "coords": [{"x":589,"y":132}]
+    },
+    {
+        "title": "Charybde et Scylla",
+        "author": "Nathan et Oriane",
+        "sound": "charybde_scylla.mp3",
+        "image": "charybde_scylla.jpg",
+        "caption": "<dl class=\"dl-horizontal\"><dt>Auteur</dt><dd>Allori Alessandro (1535-1607)</dd><dt>Date</dt><dd>Vers 1575</dd><dt>Technique/matière</dt><dd>Fresque</dd><dt>Localisation</dt><dd>Florence, Banca toscana</dd></dl>",
+        "summary":"<p>Circé raconta à Ulysse les dangers qu'ils devront surmonter, lui et ses compagnons.</p><p>Parmi ces épreuves se trouvent les terrifiantes Charybde et Scylla.</p><p>Ulysse devait choisir entre Scylla, qui mangerait six de ses compagnons,  et Charybde, qui pouvait les engloutir tous. </p><p>Notre héros ne put prendre le risque d'aller chez Charybde. Alors, à contrecœur, il décida de passer par Scylla. Comme Circé le lui avait dit, six de ses hommes furent dévorés et les autres ainsi que notre héros continuèrent leur chemin.</p>",
+        "coords": [{"x":632,"y":208}]
+    },
+    {
+        "title": "L'Île du Soleil",
+        "author": "Ange et Claire",
+        "sound": "ile_du_soleil.mp3",
+        "image": "ile_soleil.jpg",
+        "caption":"<b>Pellegrino Tibaldi</b>, Les compagnons d'Ulysse volant les vaches du Soleil. Vers 1550. Bologna, Palazzo Poggi",
+        "summary":"<p>Quand Ulysse et ses compagnons eurent fui les écueils de Charybde et Scylla, ils arrivèrent en vue de l'île du soleil avec de grasses brebis et des bœufs. Il interdit à ses compagnons de les manger. Quand ils   furent partis, une violente tempête les emporta. Ils débarquèrent sur l'île pour faire leurs repas... </p><p>Pendant six jours ils mangèrent les meilleurs bœufs du Soleil...</p>",
+        "coords": [{"x":616,"y":242}]
+    },
+    {
+        "title": "Calypso X",
+        "author": "Leelou et Sophie",
+        "sound": "calypso.mp3",
+        "image": "calypso.jpg",
+        "caption":"Calypso accueille Télémaque et Mentor par William HAMILTON",
+        "summary": "<p>Ulysse partit pour la guerre de Troie et s'échoua sur l'île de Calypso. La nuit, il dormait dans la grotte mais c'était de force et sans désir.</p><p>Sept ans plus tard, Hermès, envoyé par les dieux, alla  sur l'île, pour parler à Calypso de la libération d'Ulysse. </p><p>L'illustre déesse dut rejoindre Ulysse pour lui dire de rentrer chez lui.  Elle lui dit de construire un radeau...</p><p>Il s'échoua encore une fois, sur l'île des Phéaciens, et raconta toute son histoire....</p>",
+        "coords": [{"x":125,"y":273}]
+    },
+    {
+        "title": "La tempête de Poséidon",
+        "author": "Gatien et Jules",
+        "sound": "tempete_poseidon.mp3",
+        "image": "poseidon.jpg",
+        "caption": "Poséidon sur son char, mosaïque conservée au musée de Sousse en Tunisie",
+        "summary": "<p>Poséidon, le dieu des océans, voulait venger son fils de Ulysse  qui lui avait transpercé l’œil. Il déchaîna donc les mers et les océans sur Ulysse, pour l’empêcher de revenir à Ithaque.</p><p>Poséidon est prêt à tout pour tuer Ulysse avant qu'il n'arrive dans sa patrie.</p>",
+        "coords": [{"x":428,"y":219}]
+    },
+    {
+        "title": "Nausicaa",
+        "author": "Léo et Mathieu",
+        "sound": "nausicaa.mp3",
+        "image": "nausicaa.jpg",
+        "summary": "<p>Une nuit, Athéna apparaît à Nausicaa dans ses rêves, sous les traits d'une amie lui conseillant d'aller laver son linge à la rivière. Le lendemain, Nausicaa emmène ses suivantes à la rivière laver leur linge. Après cela, elles jouent à la balle, et Athéna aux yeux clairs, détourne la balle vers Ulysse endormi. Il veut d'abord se manifester  mais ne fait rien. Nausicaa lui prête des vêtements. Ils se rendent alors chez son père, le roi Alcinoos.</p><p>Le lendemain, Ulysse demande au roi une barque pour rentrer chez lui et raconte son aventure qui l'a mené ici. Le roi accepte et annule le «mariage» prévu.</p>",
+        "caption": "Alessandro Allori, Ulysse et Nausicaa, 1580 Florence, Palazzo Salviati (Banca Toscana)",
+        "coords": [{"x":732,"y":163}]
+    },
+    {
+        "title": "La ruse de Pénélope",
+        "author": "Maellys et Marie-Éva",
+        "image": "la_ruse_de_penelope.jpg",
+        "sound": "ruse_de_penelope.mp3",
+        "caption":"Pénélope et Ulysse Tableau de Tischbein en 1802",
+        "summary":"<p>Pénélope, ne voulant pas se marier avec un prétendant, inventa une ruse.</p><p>Chaque jour, elle tissait une toile et la nuit, en cachette, elle la détissait.</p><p>Mais un jour, la servante la surprit, elle fut obligée par les prétendants  de choisir son futur mari.</p><p>Elle organisa donc une épreuve de tir à l'arc. </p>",
+        "coords": [{"x":758,"y":194}]
+    },
+    {
+        "title": "L'épreuve de l'arc",
+        "author": "Aurélie et Sirine",
+        "sound": "epreuve_de_l_arc.mp3",
+        "image": "arc.jpg",
+        "caption": "<b>Le Primatice</b>, Ulysse à Ithaque, le jeu de l'arc,VIe siècle, huile sur toile, 148 x 205 cm, (Château de Fontainebleau).",
+        "summary": "<p>Ulysse rentra dans sa patrie en étant transformé en vieillard par Athéna pour que Pénélope et les prétendants ne le reconnaissent pas. Athéna conseilla à Pénélope d'organiser une épreuve avec l'arc et les haches d’Ulysse, l'épreuve consista à traverser d'une seule flèche les douze haches. Télémaque essaya l'arc trois fois mais la force lui manqua. Au quatrième essai,il vit Ulysse lui faire un signe et se retint, alors ce fut le tour des prétendants, mais personne ne réussit.</p><p>Seul Ulysse déguisé réussit l'épreuve.</p><p>Ulysse décida de révéler sa véritable identité, alors commença le massacre des prétendants.</p>",
+        "coords": [{"x":766,"y":200}]
+    }
+]
