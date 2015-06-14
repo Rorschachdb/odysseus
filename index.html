@@ -46,8 +46,11 @@ and open the template in the editor.
                                 </div>-->
             </section>
             <footer class="main">
-                <nav>
-                    <ul class="pull-right">
+                <nav class="navbar">
+                    <a href="carte.zip" class="navbar-left" onclick="alert('Vous allez télécharger la carte de l\'odyssée.\n\nUne fois téléchargée :\n\t* Clic droit puis Extraire tout.\n\t* Dans le répertoire créé, double cliquer sur index.html pour lancer la carte.')">
+                        <span class="glyphicon glyphicon-download-alt"></span>
+                    </a>
+                    <ul class="navbar-right">
                         <li class="previous" ng-show="!page.isStart" ng-click="page.prev()"><img src="app/images/button_prev.png"></li>
                         <li class="gomap" ng-show="!page.isStart" ng-click="page.reset()"><img src="app/images/button_carte.png"></li>
                         <li class="next" ng-show="!page.isEnd" ng-click="page.next()"><img src="app/images/button_next.png"></li>
