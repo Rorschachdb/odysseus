@@ -11,7 +11,7 @@
             this.currentPage = null;
             this.currentPageIndex = 0;
             this.clazz = '6C'
-            this.clazzes = ['6C', '6F'];
+            this.clazzes = ['6A','6C', '6F'];
             var ctrl = this;
             this.updatePage = function () {
                 this.title = this.pages[this.currentPageIndex].title;

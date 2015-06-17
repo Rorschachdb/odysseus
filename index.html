@@ -36,7 +36,7 @@ and open the template in the editor.
             <section ng-class="{map:true, main:true, fadded:page.currentPageIndex}" ng-click="page.mapClick($event)">
                 <div ng-class="{'art':true,'expanded':page.expanded}" ng-show="page.image">
                     <img ng-class="{'art':true,'expanded':page.expanded}"  ng-src="{{'data/' + page.clazz + '/images/' + page.image}}" ng-click="page.expandImage()">
-                    <p ng-show="page.caption && !page.expanded" ng-bind-html="page.caption"></p>
+                    <div class="caption" ng-show="page.caption && !page.expanded" ng-bind-html="page.caption"></div>
                 </div>
                 <div class="summary" ng-show="page.summary">
                     <div ng-bind-html="page.summary"></div>

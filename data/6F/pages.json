@@ -66,7 +66,7 @@
         "author": "Nathan et Oriane",
         "sound": "charybde_scylla.mp3",
         "image": "charybde_scylla.jpg",
-        "caption": "<dl class=\"dl-horizontal\"><dt>Auteur</dt><dd>Allori Alessandro (1535-1607)</dd><dt>Date</dt><dd>Vers 1575</dd><dt>Technique/matière</dt><dd>Fresque</dd><dt>Localisation</dt><dd>Florence, Banca toscana</dd></dl>",
+        "caption": "<dl ><dt>Auteur</dt><dd>Allori Alessandro (1535-1607)</dd><dt>Date</dt><dd>Vers 1575</dd><dt>Technique/matière</dt><dd>Fresque</dd><dt>Localisation</dt><dd>Florence, Banca toscana</dd></dl>",
         "summary":"<p>Circé raconta à Ulysse les dangers qu'ils devront surmonter, lui et ses compagnons.</p><p>Parmi ces épreuves se trouvent les terrifiantes Charybde et Scylla.</p><p>Ulysse devait choisir entre Scylla, qui mangerait six de ses compagnons,  et Charybde, qui pouvait les engloutir tous. </p><p>Notre héros ne put prendre le risque d'aller chez Charybde. Alors, à contrecœur, il décida de passer par Scylla. Comme Circé le lui avait dit, six de ses hommes furent dévorés et les autres ainsi que notre héros continuèrent leur chemin.</p>",
         "coords": [{"x":632,"y":208}]
     },
@@ -80,7 +80,7 @@
         "coords": [{"x":616,"y":242}]
     },
     {
-        "title": "Calypso X",
+        "title": "Calypso",
         "author": "Leelou et Sophie",
         "sound": "calypso.mp3",
         "image": "calypso.jpg",
